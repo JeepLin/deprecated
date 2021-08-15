@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.jeeplin.deprecated.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.jeeplin.deprecated.MyBundle
 
 class MyApplicationService {
 
